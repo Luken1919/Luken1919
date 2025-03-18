@@ -22,12 +22,13 @@
 - 📄 Know about my experiences [explotadoEnGestamp](explotadoEnGestamp)
 
 - ⚡ Fun fact **Yes**
- _      _   _   _   _   ______   _     _
+- _      _   _   _   _   ______   _     _
 | |    | | | | | | / / |  ____| |  \  | |
 | |    | | | | | |/ /  | |____  |   \ | |
 | |    | | | | |   /   |  ____| | |\ \| |
 | |__  | |_| | |   \   | |____  | | \   |
 |____| |_____| |_|\_\  |______| |_|  \__|
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
