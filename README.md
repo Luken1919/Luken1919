@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luken Frankito</h1>
+ _      _   _   _   _   ______   _     _
+| |    | | | | | | / / |  ____| |  \  | |
+| |    | | | | | |/ /  | |____  |   \ | |
+| |    | | | | |   /   |  ____| | |\ \| |
+| |__  | |_| | |   \   | |____  | | \   |
+|____| |_____| |_|\_\  |______| |_|  \__|
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **git**
