@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **2ag3.lukefran@tolosaldealh.eus**
 
-- 📄 Know about my experiences [explotadoEnGestamp](explotadoEnGestamp)
+- 📄 Know about my experiences [Buenaz](Buenaz)
 
 - ⚡ Fun fact **Yes**
 - _      _   _   _   _   ______   _     _
